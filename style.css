@@ -1,0 +1,25 @@
+
+
+.card{
+    transition: all 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.15);
+}
+
+.row{
+    padding: 20px;
+
+    background-image: url(https://st3.depositphotos.com/5934840/18180/v/1600/depositphotos_181806062-stock-illustration-vegetables-and-fruits-hand-draw.jpg);
+    height: 800px;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.row2{
+    background-color:rgb(60, 194, 239);
+    
+}
